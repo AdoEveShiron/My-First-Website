@@ -56,4 +56,4 @@ In this assignment, I created my first structured webpage using HTML and CSS. I 
 ![Part 4 Screenshot](Part6.png)
 
 ---
-**GitHub Pages URL:** 
+**GitHub Pages URL:** https://adoeveshiron.github.io/My-First-Website/
